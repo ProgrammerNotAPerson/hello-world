@@ -1,2 +1,4 @@
 # hello-world
-Practice
+===================
+This is a read me explaining this repository!
+[insert read me here]
